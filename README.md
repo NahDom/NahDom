@@ -29,10 +29,10 @@ Como parte de mi rol docente en la UTN, mantengo repositorios con recursos para 
 ### 💻 Mis Proyectos Destacados
 
 * **[Red_Neuronal_C](https://github.com/NahDom/Red_Neuronal_C):** Red neuronal construida 100% desde cero en C, sin frameworks. Álgebra lineal pura y manejo estricto de punteros.
-* 
-* **[Data_Warehouse]((https://github.com/NahDom/data-warehouse-project)):** Arquitectura de Data Warehouse en SQL Server aplicando el modelo de capas (Bronce, Plata, Oro) y procesos ETL.
-* 
-* **[OpenGL with Python]((https://github.com/NahDom/OpenGL-Python)):** Estudio de Python utilizando la libreria de graficos OpenGL.
+ 
+* **[Data_Warehouse](https://github.com/NahDom/data-warehouse-project):** Arquitectura de Data Warehouse en SQL Server aplicando el modelo de capas (Bronce, Plata, Oro) y procesos ETL.
+ 
+* **[OpenGL with Python](https://github.com/NahDom/OpenGL-Python):** Estudio de Python utilizando la libreria de graficos OpenGL.
 
 ---
 
@@ -45,7 +45,7 @@ Como parte de mi rol docente en la UTN, mantengo repositorios con recursos para 
 `PostgreSQL` | `MySQL` | `SQL Server` | `B-Trees` | `PySpark` | `ETL` | 
 
 **Backend y Servicios Cloud:**
-`Python` | `FastAPI` | `AWS` | `GCP` | `Azure`
+`Python` | `FastAPI` |  `Django` | `AWS` | `GCP` | `Azure`
 
 **Gráficos:**
 `OpenGL` | `Vulkan`
