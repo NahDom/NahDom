@@ -10,17 +10,17 @@ Además de desarrollar infraestructura, ejerzo como Ayudante de Cátedra, donde 
 
 ### 🚀 ¿En qué estoy trabajando actualmente?
 
-- 🛠️ **Desarrollando un DBMS desde cero:** Construyendo un motor de base de datos Key-Value en **C** (estilo Redis), implementando estructuras B-Tree y paginación de memoria a bajo nivel.
-- 📐 **Explorando el Renderizado:** Estudiando pipelines gráficos y matemáticas de matrices con **OpenGL/Vulkan**.
-- 🌍 **Preparando el salto:** Estudiando alemán de forma activa con el objetivo a largo plazo de relocalizarme en la región DACH (Suiza/Alemania).
+- 🛠️ **Desarrollando un DBMS desde cero:** Construyendo un motor de base de datos Key-Value en **C** (estilo Redis), implementando estructuras B-Tree y paginación de memoria a bajo nivel, ademas de un motor de renderizado hecho en Python y una version en C++.
+- 📐 **Motores de Renderizado:** Estudiando pipelines gráficos y matemáticas de matrices con **OpenGL/Vulkan**.
+- 🌍 **Idioma:** Estudiando alemán e ingles de forma activa.
 
 ---
 
 ### 📚 Material Académico y Guías (Para Alumnos)
 
 Como parte de mi rol docente en la UTN, mantengo repositorios con recursos para mis alumnos y cualquier persona interesada en aprender bases de datos con fundamentos sólidos:
-- [Aquí puedes poner un link a tu repo de guías] - **Guías resueltas y prácticas de Sistemas de Gestión de Bases de Datos**.
-- [Aquí puedes poner otro link si corresponde] - **Ejemplos de Query Tuning, Sharding y SQL Avanzado**.
+- [Link a los ejercicios](https://github.com/NahDom/SQL-Pratica-personal/tree/main/Carpeta%20de%20consultas%20SQL%20Primer%20Cuatrimestre/Consultas%20versionadas) - **Guías resueltas y prácticas de Sistemas de Gestión de Bases de Datos**.
+
 
 *(Si sos alumno o estás aprendiendo, ¡te invito a revisar estos repositorios y hacer fork!)*
 
@@ -28,9 +28,9 @@ Como parte de mi rol docente en la UTN, mantengo repositorios con recursos para 
 
 ### 💻 Mis Proyectos Destacados
 
-* **[Red_Neuronal_C](link-a-tu-repo):** Red neuronal construida 100% desde cero en C, sin frameworks. Álgebra lineal pura y manejo estricto de punteros.
-* **[Data_Warehouse_Medallion](link-a-tu-repo):** Arquitectura de Data Warehouse en SQL Server aplicando el modelo de capas (Bronce, Plata, Oro) y procesos ETL.
-* **[Backend_APIs](link-a-tu-repo):** *(Tu "salvavidas")* Ejemplos de servicios backend robustos e infraestructura en la nube utilizando Python y FastAPI.
+* **[Red_Neuronal_C](https://github.com/NahDom/Red_Neuronal_C):** Red neuronal construida 100% desde cero en C, sin frameworks. Álgebra lineal pura y manejo estricto de punteros.
+* **[Data_Warehouse_Medallion]([link-a-tu-repo](https://github.com/NahDom/data-warehouse-project)):** Arquitectura de Data Warehouse en SQL Server aplicando el modelo de capas (Bronce, Plata, Oro) y procesos ETL.
+* **[OpenGL with Python]((https://github.com/NahDom/OpenGL-Python)):** Estudio de Python utilizando la libreria de graficos OpenGL.
 
 ---
 
@@ -40,10 +40,10 @@ Como parte de mi rol docente en la UTN, mantengo repositorios con recursos para 
 `C` | `C++` | `Rust` | `Memory Management`
 
 **Bases de Datos e Ingeniería de Datos:**
-`PostgreSQL (Internals)` | `SQL Server` | `B-Trees` | `PySpark` | `ETL`
+`PostgreSQL` | `MySQL` | `SQL Server` | `B-Trees` | `PySpark` | `ETL` | 
 
 **Backend y Servicios Cloud:**
-`Python` | `FastAPI` | `AWS` | `GCP`
+`Python` | `FastAPI` | `AWS` | `GCP` | `Azure`
 
 **Gráficos:**
 `OpenGL` | `Vulkan`
@@ -52,4 +52,4 @@ Como parte de mi rol docente en la UTN, mantengo repositorios con recursos para 
 
 ### 📫 ¿Cómo contactarme?
 - 💼 **LinkedIn:** [linkedin.com/in/edgarnahueldominguez](https://www.linkedin.com/in/edgarnahueldominguez)
-- ✉️ **Email:** Clastik13@gmail.com
+- ✉️ **Email:** Clastik13@gmail.com | Clastik-mor13@outlook.com.ar
