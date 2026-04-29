@@ -1,10 +1,10 @@
-# ¡Hola! Soy Nahuel Dominguez 👋
+Soy Nahuel Dominguez 
 
-**Software & Systems Engineer | Ayudante de Cátedra (UTN) | Low-Level & Data Architecture Enthusiast**
+** Future Software & Systems Engineer | Ayudante de Cátedra (UTN) | Low-Level & Data Architecture Enthusiast**
 
-Soy estudiante avanzado de Ingeniería en Sistemas de Información (UTN FRRe) y un apasionado por entender cómo funciona el software desde sus cimientos. Mi enfoque está en el "bare metal", la gestión de memoria y la arquitectura interna de los sistemas de bases de datos. 
+Soy estudiante avanzado de Ingeniería en Sistemas de Información (UTN FRRe) y por decirlo de forma tranquila, un apasionado por entender cómo funciona el software desde sus cimientos. Mi enfoque está en el "bare metal", la gestión de memoria y la arquitectura interna de los sistemas de bases de datos y los sistemas al nivel mas bajo de todos. 
 
-Además de desarrollar infraestructura, ejerzo como Ayudante de Cátedra, donde me dedico a afianzar conceptos complejos de arquitectura de datos y SQL avanzado para otros estudiantes.
+Además de desarrollar diversos proyectos de infraestructura, ejerzo como Ayudante de Cátedra, donde me dedico a afianzar conceptos complejos de arquitectura de datos y SQL avanzado para otros estudiantes.
 
 ---
 
