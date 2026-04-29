@@ -1,6 +1,6 @@
 # Nahuel Dominguez 
 
-** Futuro Ingeniero en Sistemas de Informacion y en Software | Ayudante de Cátedra (UTN) | Low-Level & Data Architecture Enthusiast**
+**Futuro Ingeniero en Sistemas de Informacion y en Software | Ayudante de Cátedra (UTN) | Low-Level & Data Architecture Enthusiast**
 
 Soy estudiante avanzado de Ingeniería en Sistemas de Información (UTN FRRe) y por decirlo de forma tranquila, un apasionado por entender cómo funciona el software desde sus cimientos. Mi enfoque está en el "bare metal", la gestión de memoria y la arquitectura interna de los sistemas de bases de datos y los sistemas al nivel mas bajo de todos. 
 
